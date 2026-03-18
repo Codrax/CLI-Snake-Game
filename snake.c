@@ -115,8 +115,8 @@ int listAppleCount = 0;
 int snakeDirection=0; // 0 = up, 1 = left, 2 = bottom, 3 = right
 
 // Settings
-int tableX=20; // size X
-int tableY=20; // size Y
+int tableX=10; // size X
+int tableY=10; // size Y
 int tableResolution=1; // print size
 
 unsigned int snakeMoveDelay=300; // 0 to disable
