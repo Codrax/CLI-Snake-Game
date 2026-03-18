@@ -623,16 +623,16 @@ void print_usage() {
 	printf("    do not add apple on eat\n");
 	printf("\n");
 	printf(" --sizeX <int> \n");
-	printf("    Size of table\n");
+	printf("    size of table\n");
 	printf(" --sizeY <int> \n");
-	printf("    Size of table\n");
+	printf("    size of table\n");
 	printf(" --resolution <int> \n");
-	printf("    Resolution of each cell\n");
+	printf("    resolution of each cell\n");
 	printf("\n");
 	printf(" --time-apple <int> \n");
-	printf("    Milliseconds betwen each apple add (0-disabled)\n");
+	printf("    milliseconds betwen each apple add (0-disabled)\n");
 	printf(" --time-move <int> \n");
-	printf("    Milliseconds betwen each movement (0-disabled)\n");
+	printf("    milliseconds betwen each movement (0-disabled)\n");
 	
 }
 void print_help() {
